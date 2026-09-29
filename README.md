@@ -28,7 +28,7 @@ Sou desenvolvedora com experiência em automação e aplicações full stack, di
 
 | Área | Tecnologias |
 | :--- | :--- |
-| IA e backend | Python · FastAPI · C# / .NET · Node.js |
+| IA e backend | Python · FastAPI · Java · Node.js |
 | Interfaces | React · TypeScript · Angular · Vue |
 | Automação | UiPath · Power Automate · Playwright · Selenium |
 | Dados e infraestrutura | PostgreSQL · Docker · Git · Linux |
